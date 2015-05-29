@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SDTPresentation.Utils
+namespace Presentation.Utils
 {
     public static class WarningMessage
     {

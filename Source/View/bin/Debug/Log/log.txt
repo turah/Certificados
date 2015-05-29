@@ -1,0 +1,135 @@
+*[2015-05-29(17:32:02)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 64
+*[2015-05-29(17:32:21)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 64
+*[2015-05-29(17:36:17)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 61
+*[2015-05-29(17:36:21)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 61
+*[2015-05-29(17:42:15)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 61
+*[2015-05-29(17:43:33)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:43:34)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:43:43)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:43:43)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:43:44)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:43:44)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:43:49)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:43:49)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Int32.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:52:23)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:52:23)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:52:35)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:56:07)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:56:19)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:58:42)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:59:15)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:59:16)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:59:23)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:59:23)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:59:30)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:59:31)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:59:37)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60
+*[2015-05-29(17:59:38)] System.FormatException: A cadeia de caracteres de entrada não estava em um formato incorreto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em System.Decimal.Parse(String s)
+   em SDTDomainModel.Entities.Aluno.get_Media() na c:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\Entities\Aluno.cs:linha 60

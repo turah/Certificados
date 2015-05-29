@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SDTDomainModel.Entities
+namespace DomainModel.Entities
 {
     public class Livro
     {

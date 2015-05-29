@@ -14,3 +14,12 @@ C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\De
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Debug\DomainModel.csproj.GenerateResource.Cache
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Debug\SDTDomainModel.dll
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Debug\SDTDomainModel.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\bin\Debug\DomainModel.dll.config
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\bin\Debug\NLog.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\obj\Debug\DomainModel.Enums.Resources.MeasurementUnitsEnumResouces.resources
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\obj\Debug\DomainModel.Enums.Resources.ApplicationEnumsResources.resources
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\obj\Debug\DomainModel.csproj.GenerateResource.Cache
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\obj\Debug\DomainModel.pdb

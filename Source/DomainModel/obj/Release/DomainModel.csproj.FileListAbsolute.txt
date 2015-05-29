@@ -22,3 +22,12 @@ C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Re
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Release\DomainModel.csproj.GenerateResource.Cache
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Release\SDTDomainModel.dll
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\obj\Release\DomainModel.csproj.GenerateResource.Cache
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\bin\Release\NLog.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\bin\Release\DomainModel.dll.config
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\bin\Release\DomainModel.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\bin\Release\DomainModel.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\obj\Release\DomainModel.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\obj\Release\DomainModel.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\obj\Release\DomainModel.Enums.Resources.MeasurementUnitsEnumResouces.resources
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DomainModel\obj\Release\DomainModel.Enums.Resources.ApplicationEnumsResources.resources

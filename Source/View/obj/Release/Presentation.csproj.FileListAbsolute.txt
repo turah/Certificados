@@ -34,3 +34,39 @@ C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\View\obj\Release\S
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\View\obj\Release\SDTView.application
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\View\obj\Release\SDTView.exe
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\View\obj\Release\SDTView.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\NLog.config
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\NLog.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\SDT.Utils.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\NLog.xml
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\SDT.Utils.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\en\SDT.Utils.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\View\ConsultaAluno.baml
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\App.baml
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\View\ConsultaAluno.g.cs
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\View\SeparatorDesignView.g.cs
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\App.g.cs
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\View\SeparatorDesignView.baml
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\Presentation.csproj.GenerateResource.Cache
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\Business.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\DomainModel.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\DataAccess.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\Business.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\DomainModel.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\DataAccess.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\Presentation_MarkupCompile.cache
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\Presentation_MarkupCompile.lref
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\Presentation.exe.config
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\Presentation.exe.manifest
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\Presentation.application
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\Presentation.exe
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\bin\Release\Presentation.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\Presentation.g.resources
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\Presentation.Properties.Resources.resources
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\Presentation.exe.manifest
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\Presentation.application
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\Presentation.exe
+C:\Users\turah\Desktop\TURAH\Certificados\Source\View\obj\Release\Presentation.pdb

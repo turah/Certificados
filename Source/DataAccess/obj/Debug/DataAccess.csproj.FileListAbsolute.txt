@@ -14,3 +14,12 @@ C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\bin\Deb
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\obj\Debug\SDTDataAccess.dll
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\obj\Debug\SDTDataAccess.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DataAccess\bin\Debug\DomainModel.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DataAccess\bin\Debug\NLog.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DataAccess\bin\Debug\DomainModel.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\DataAccess\obj\Debug\DataAccess.pdb

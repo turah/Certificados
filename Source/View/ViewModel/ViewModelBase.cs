@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SDTPresentation.ViewModel
+namespace Presentation.ViewModel
 {
     public class ViewModelBase : INotifyPropertyChanged
     {

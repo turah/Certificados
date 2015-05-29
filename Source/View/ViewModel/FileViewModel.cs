@@ -8,9 +8,9 @@ using System.IO;
 using Business.Registers;
 using Business.Unity;
 using System.Windows;
-using SDTPresentation.Utils;
+using Presentation.Utils;
 
-namespace SDTPresentation.ViewModel
+namespace Presentation.ViewModel
 {
     public static class FileViewModel
     {

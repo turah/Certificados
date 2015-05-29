@@ -1,5 +1,5 @@
-﻿using SDTDomainModel.Entities;
-using SDTPresentation.ViewModel;
+﻿using DomainModel.Entities;
+using Presentation.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -16,7 +16,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace SDTPresentation.View
+namespace Presentation.View
 {
 
        /// <summary>
@@ -28,16 +28,6 @@ namespace SDTPresentation.View
             {
                 InitializeComponent();
             }
-
-            //private void TextBox_LostFocus(object sender, RoutedEventArgs e)
-            //{
-            //    ConsultaAlunoViewModel x = (ConsultaAlunoViewModel)this.DataContext;
-            //    if (!String.IsNullOrEmpty(x.AlunoSelecionado.Nota1) && !String.IsNullOrEmpty(x.AlunoSelecionado.Nota2) && !String.IsNullOrEmpty(x.AlunoSelecionado.Nota3))
-            //    {
-            //        x.SaveFile();
-            //        x.alunosView.Refresh();
-            //    }
-            //}
 
         }
 

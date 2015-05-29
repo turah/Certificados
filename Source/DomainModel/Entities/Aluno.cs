@@ -1,11 +1,12 @@
-﻿using SDTDomainModel.Enums;
+﻿using DomainModel.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NLog;
 
-namespace SDTDomainModel.Entities
+namespace DomainModel.Entities
 {
     public class Aluno
     {
@@ -42,6 +43,8 @@ namespace SDTDomainModel.Entities
 
         public string Semestre { get; set; }
 
+        public string Escola { get; set; }
+
         public string Nota1 { get; set; }
 
         public string Nota2 { get; set; }
@@ -51,16 +54,32 @@ namespace SDTDomainModel.Entities
         public string Media 
         {
             get
-            { 
-                if (!String.IsNullOrEmpty(this.Nota1) && !String.IsNullOrEmpty(this.Nota2) && !String.IsNullOrEmpty(this.Nota3))
+            {
+                try
                 {
-                    return ((Int32.Parse(this.Nota1) + Int32.Parse(this.Nota2) + 2 * (Int32.Parse(this.Nota3)))/4).ToString();
-                } else { 
-                    return String.Empty; 
+                    if (!String.IsNullOrEmpty(this.Nota1) && !String.IsNullOrEmpty(this.Nota2) && !String.IsNullOrEmpty(this.Nota3))
+                    {
+                        return Math.Round(((Decimal.Parse(this.Nota1.Replace(".", ",")) + Decimal.Parse(this.Nota2.Replace(".", ",")) + 2 * (Decimal.Parse(this.Nota3.Replace(".", ",")))) / 4), 2).ToString();
+                    }
+                    else
+                    {
+                        return String.Empty;
+                    }
                 }
+                catch (Exception ex)
+                {
+                    Logger logWriter = LogManager.GetLogger("logfile");
+                    logWriter.Error(ex);
+                    return "ERRO!";
+                }
+
+                
             }
 
             set { } 
+
+
+           
         
         }
 

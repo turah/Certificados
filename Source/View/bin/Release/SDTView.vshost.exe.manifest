@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3OeZb0Df9LtCzwfjGDb9g67OAqhMcY42CJaO3TqZge4=</dsig:DigestValue>
+        <dsig:DigestValue>0Z4wkuzwS4lYY573dxYJobp5CRdIpShpZs2vIzvYfWQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -97,7 +97,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NBp0FQt8CfmzrzRDoostuSp3Idxgcy6PokJWQQpNvKE=</dsig:DigestValue>
+        <dsig:DigestValue>wzBPnhL3VJv9s3g65fud8fLo1rsj+JegIN+LVOpxxHk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -109,7 +109,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gUqbLfoh0lx1MSUTbg0cFYYu8UDe5nDNeCqEoSo6r5k=</dsig:DigestValue>
+        <dsig:DigestValue>bDd/3sFxoBoANiCpEOkh/4vG3ym5mwfkIcm1QMp3cVk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -121,31 +121,31 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RyjMXwqVevr5mAct3GIcovdciU5VXqRT00n0qSrWvSA=</dsig:DigestValue>
+        <dsig:DigestValue>agtcftUs0vMlAQWmWZqaVkp0gc3zkGDYQkcMMsMNWBk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SDTDomainModel.dll" size="18432">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SDTDomainModel.dll" size="18944">
       <assemblyIdentity name="SDTDomainModel" version="1.0.0.0" publicKeyToken="3252019BED0C1DBC" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZMN5n4StwGJrdRWa+enpqnbp2o6AKoZ+gddfh9fJoXU=</dsig:DigestValue>
+        <dsig:DigestValue>mupC6cfp9g7ej16B6Iy0Z4U01a9KS/LlSxSQZ9oqwVI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SDTView.exe" size="75240">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SDTView.exe" size="74752">
       <assemblyIdentity name="SDTView" version="1.0.0.0" publicKeyToken="FFBE73D8227BBCA9" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>oLK1v+8JRI1cZxJJSOg2vbSCL+NFLrt7NEi10a1/EFY=</dsig:DigestValue>
+        <dsig:DigestValue>Ec2mzfp8MCEiErv0cj+J4cVgIG2Q8yf3yB2/cCaNE38=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

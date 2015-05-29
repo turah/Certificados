@@ -78,3 +78,29 @@ C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\Business\bin\Relea
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\Business\bin\Release\zh-Hant\Microsoft.Expression.Drawing.resources.dll
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\Business\obj\Release\SDTBusiness.dll
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\Business\obj\Release\SDTBusiness.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\SDT.Utils.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\NLog.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\SDT.Utils.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\en\SDT.Utils.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\obj\Release\Business.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\Business.dll.config
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\Business.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\Business.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\DataAccess.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\DomainModel.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\DataAccess.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\bin\Release\DomainModel.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\obj\Release\Business.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Source\Business\obj\Release\Business.pdb

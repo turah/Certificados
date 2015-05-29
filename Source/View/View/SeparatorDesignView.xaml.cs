@@ -1,4 +1,4 @@
-﻿using SDTPresentation.ViewModel;
+﻿using Presentation.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,7 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace SDTPresentation.View
+namespace Presentation.View
 {
     /// <summary>
     /// Interaction logic for SeparatorDesignView.xaml

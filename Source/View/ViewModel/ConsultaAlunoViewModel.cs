@@ -1,4 +1,4 @@
-﻿using SDTDomainModel.Entities;
+﻿using DomainModel.Entities;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -10,9 +10,9 @@ using System.Windows.Data;
 using System.Windows.Input;
 using Business.Registers;
 using System.Windows;
-using SDTPresentation.Utils;
+using Presentation.Utils;
 
-namespace SDTPresentation.ViewModel
+namespace Presentation.ViewModel
 {
     public class ConsultaAlunoViewModel: ViewModelBase
     {
@@ -65,6 +65,7 @@ namespace SDTPresentation.ViewModel
         private string _filtroPorNome;
         private string _filtroPorTurma;
         private string _filtroPorAno;
+        private string _filtroPorEscola;
 
         public ICollectionView Alunos
         {
@@ -104,13 +105,24 @@ namespace SDTPresentation.ViewModel
             }
         }
 
+        public string FiltroPorEscola
+        {
+            get { return _filtroPorEscola; }
+            set
+            {
+                _filtroPorEscola = value;
+                RaisePropertyChangedEvent("FiltroPorEscola");
+                alunosView.Refresh();
+            }
+        }
+
         private bool FiltroAgenda(object item)
         {
             Aluno atividade = item as Aluno;
 
             bool retorno = true;
 
-            if (string.IsNullOrEmpty(FiltroPorNome) && string.IsNullOrEmpty(FiltroPorAno) && string.IsNullOrEmpty(FiltroPorTurma))
+            if (string.IsNullOrEmpty(FiltroPorNome) && string.IsNullOrEmpty(FiltroPorAno) && string.IsNullOrEmpty(FiltroPorTurma) && string.IsNullOrEmpty(FiltroPorEscola))
             {
                 return true;
             } else {
@@ -125,6 +137,10 @@ namespace SDTPresentation.ViewModel
                 if (retorno  && !string.IsNullOrEmpty(FiltroPorTurma))
                 {
                     retorno =  !string.IsNullOrEmpty(atividade.Turma) && atividade.Turma.ToUpper().Contains(FiltroPorTurma.ToUpper());
+                } 
+                if (retorno && !string.IsNullOrEmpty(FiltroPorEscola))
+                {
+                    retorno = !string.IsNullOrEmpty(atividade.Escola) && atividade.Escola.ToUpper().Contains(FiltroPorEscola.ToUpper());
                 }
 
                 return retorno;

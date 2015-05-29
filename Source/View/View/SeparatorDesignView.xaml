@@ -1,18 +1,18 @@
 ﻿<Window
     Closing="Window_Closing"
 	Title="Controle de Certificados"
-    x:Class="SDTPresentation.View.SeparatorDesignView"       
+    x:Class="Presentation.View.SeparatorDesignView"       
 	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
 	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
 	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
     mc:Ignorable="d"
-    xmlns:ViewModel="clr-namespace:SDTPresentation.ViewModel"
-    xmlns:View="clr-namespace:SDTPresentation.View"
+    xmlns:ViewModel="clr-namespace:Presentation.ViewModel"
+    xmlns:View="clr-namespace:Presentation.View"
     xmlns:sys="clr-namespace:System;assembly=mscorlib"
-    xmlns:data="clr-namespace:SDTDomainModel.Enums;assembly=SDTDomainModel"
-    xmlns:sdtPresentation="clr-namespace:SDTPresentation"
-    Width="1440" Height="860" WindowState="Maximized" WindowStartupLocation="CenterScreen" Icon="/SDTView;component/Shared/Application.png">
+    xmlns:data="clr-namespace:DomainModel.Enums;assembly=DomainModel"
+    xmlns:sdtPresentation="clr-namespace:Presentation"
+    Width="1440" Height="860" WindowState="Maximized" WindowStartupLocation="CenterScreen" Icon="/Shared/Application.png">
 
     <Window.Resources>
         <ViewModel:SeparatorDesignViewModel x:Key="SeparatorDesignVM" />

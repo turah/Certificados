@@ -1,4 +1,4 @@
-﻿using SDTDomainModel.Entities;
+﻿using DomainModel.Entities;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -8,13 +8,13 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Business;
 using Business.Registers;
-using SDTDomainModel.Enums;
-using SDTDomainModel.Enums.Resources;
-using SDTPresentation.Utils;
+using DomainModel.Enums;
+using DomainModel.Enums.Resources;
+using Presentation.Utils;
 using System.Windows;
 
 
-namespace SDTPresentation.ViewModel
+namespace Presentation.ViewModel
 {
     public class SeparatorDesignViewModel : ViewModelBase
     {

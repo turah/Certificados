@@ -86,3 +86,13 @@ C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Ut
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\obj\Release\en\SDT.Utils.resources.dll
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\obj\Release\SDT.Utils.dll
 C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\obj\Release\SDT.Utils.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Framework\SDTFramework.Utils\bin\Release\SDT.Utils.dll.config
+C:\Users\turah\Desktop\TURAH\Certificados\Framework\SDTFramework.Utils\bin\Release\SDT.Utils.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Framework\SDTFramework.Utils\bin\Release\SDT.Utils.pdb
+C:\Users\turah\Desktop\TURAH\Certificados\Framework\SDTFramework.Utils\bin\Release\en\SDT.Utils.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Framework\SDTFramework.Utils\obj\Release\SDT.Utils.Enums.Resources.EnumsResource.resources
+C:\Users\turah\Desktop\TURAH\Certificados\Framework\SDTFramework.Utils\obj\Release\SDT.Utils.Enums.Resources.EnumsResource.en.resources
+C:\Users\turah\Desktop\TURAH\Certificados\Framework\SDTFramework.Utils\obj\Release\SDTFramework.Utils.csproj.GenerateResource.Cache
+C:\Users\turah\Desktop\TURAH\Certificados\Framework\SDTFramework.Utils\obj\Release\en\SDT.Utils.resources.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Framework\SDTFramework.Utils\obj\Release\SDT.Utils.dll
+C:\Users\turah\Desktop\TURAH\Certificados\Framework\SDTFramework.Utils\obj\Release\SDT.Utils.pdb

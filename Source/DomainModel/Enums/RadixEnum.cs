@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SDTDomainModel.Enums.Resources;
+using DomainModel.Enums.Resources;
 
-namespace SDTDomainModel.Enums
+namespace DomainModel.Enums
 {
     public static class RadixEnum
     {
