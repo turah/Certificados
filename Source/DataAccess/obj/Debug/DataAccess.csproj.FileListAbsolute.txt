@@ -1,0 +1,16 @@
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DataAccess\bin\Debug\SDTDataAccess.dll.config
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DataAccess\bin\Debug\SDTDataAccess.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DataAccess\bin\Debug\SDTDataAccess.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DataAccess\bin\Debug\SDTDomainModel.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DataAccess\bin\Debug\SDTDomainModel.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DataAccess\obj\Debug\SDTDataAccess.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DataAccess\obj\Debug\SDTDataAccess.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\bin\Debug\SDTDataAccess.dll.config
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\bin\Debug\SDTDataAccess.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\bin\Debug\SDTDataAccess.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\bin\Debug\SDTDomainModel.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\bin\Debug\SDTDomainModel.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\obj\Debug\SDTDataAccess.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DataAccess\obj\Debug\SDTDataAccess.pdb

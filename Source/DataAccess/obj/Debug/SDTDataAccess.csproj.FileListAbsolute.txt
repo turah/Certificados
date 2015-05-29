@@ -1,0 +1,24 @@
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\bin\Debug\SDTDataAccess.dll.config
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\bin\Debug\SDTDataAccess.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\bin\Debug\SDTDataAccess.pdb
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\bin\Debug\SDTDomainModel.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\bin\Debug\SDTDomainModel.pdb
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\obj\Debug\SDTDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\obj\Debug\SDTDataAccess.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\obj\Debug\SDTDataAccess.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\bin\Debug\SDTDataAccess.dll.config
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\bin\Debug\SDTDataAccess.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\bin\Debug\SDTDataAccess.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\bin\Debug\SDTDomainModel.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\bin\Debug\SDTDomainModel.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\obj\Debug\SDTDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\obj\Debug\SDTDataAccess.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\obj\Debug\SDTDataAccess.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\bin\Debug\SDTDataAccess.dll.config
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\bin\Debug\SDTDataAccess.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\bin\Debug\SDTDataAccess.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\bin\Debug\SDTDomainModel.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\bin\Debug\SDTDomainModel.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\obj\Debug\SDTDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\obj\Debug\SDTDataAccess.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\obj\Debug\SDTDataAccess.pdb

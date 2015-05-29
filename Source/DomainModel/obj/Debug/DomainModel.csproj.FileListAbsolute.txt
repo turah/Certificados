@@ -1,0 +1,16 @@
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DomainModel\bin\Debug\SDTDomainModel.dll.config
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DomainModel\bin\Debug\SDTDomainModel.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DomainModel\bin\Debug\SDTDomainModel.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DomainModel\obj\Debug\SDTDomainModel.Enums.Resources.MeasurementUnitsEnumResouces.resources
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DomainModel\obj\Debug\SDTDomainModel.Enums.Resources.ApplicationEnumsResources.resources
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DomainModel\obj\Debug\DomainModel.csproj.GenerateResource.Cache
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DomainModel\obj\Debug\SDTDomainModel.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\DomainModel\obj\Debug\SDTDomainModel.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\bin\Debug\SDTDomainModel.dll.config
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\bin\Debug\SDTDomainModel.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\bin\Debug\SDTDomainModel.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Debug\SDTDomainModel.Enums.Resources.MeasurementUnitsEnumResouces.resources
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Debug\SDTDomainModel.Enums.Resources.ApplicationEnumsResources.resources
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Debug\DomainModel.csproj.GenerateResource.Cache
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Debug\SDTDomainModel.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Source\DomainModel\obj\Debug\SDTDomainModel.pdb

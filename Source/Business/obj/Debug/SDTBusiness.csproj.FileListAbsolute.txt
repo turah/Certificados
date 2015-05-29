@@ -1,0 +1,83 @@
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTBusiness.dll.config
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTBusiness.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTBusiness.pdb
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\MathNet.Numerics.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\ScaredFingers.UnitsConversion.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDT.Utils.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTDataAccess.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTDomainModel.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\NLog.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDT.Utils.pdb
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTDataAccess.pdb
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTDomainModel.pdb
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\NLog.xml
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\en\SDT.Utils.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\obj\Debug\SDTBusiness.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\obj\Debug\SDTBusiness.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTBusiness\obj\Debug\SDTBusiness.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTBusiness.dll.config
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTBusiness.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTBusiness.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDT.Utils.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTDataAccess.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTDomainModel.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\NLog.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDT.Utils.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTDataAccess.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\SDTDomainModel.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\NLog.xml
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\en\SDT.Utils.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\obj\Debug\SDTBusiness.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\obj\Debug\SDTBusiness.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTBusiness\obj\Debug\SDTBusiness.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\SDTBusiness.dll.config
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\SDTBusiness.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\SDTBusiness.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\SDT.Utils.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\SDTDataAccess.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\SDTDomainModel.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\NLog.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\SDT.Utils.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\SDTDataAccess.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\SDTDomainModel.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\NLog.xml
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\en\SDT.Utils.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\obj\Debug\SDTBusiness.csprojResolveAssemblyReference.cache
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\obj\Debug\SDTBusiness.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTBusiness\obj\Debug\SDTBusiness.pdb

@@ -1,0 +1,43 @@
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.dll.config
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.Enums.Resources.MeasurementUnitsEnumResouces.resources
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.Enums.Resources.ApplicationEnumsResources.resources
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.csproj.GenerateResource.Cache
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.dll.config
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.Enums.Resources.MeasurementUnitsEnumResouces.resources
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.Enums.Resources.ApplicationEnumsResources.resources
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.csproj.GenerateResource.Cache
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.dll.config
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.Enums.Resources.MeasurementUnitsEnumResouces.resources
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.Enums.Resources.ApplicationEnumsResources.resources
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.csproj.GenerateResource.Cache
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.dll.config
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.Enums.Resources.MeasurementUnitsEnumResouces.resources
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.Enums.Resources.ApplicationEnumsResources.resources
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.csproj.GenerateResource.Cache
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.dll.config
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDomainModel\bin\Release\SDTDomainModel.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.Enums.Resources.MeasurementUnitsEnumResouces.resources
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.Enums.Resources.ApplicationEnumsResources.resources
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.csproj.GenerateResource.Cache
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDomainModel\obj\Release\SDTDomainModel.pdb

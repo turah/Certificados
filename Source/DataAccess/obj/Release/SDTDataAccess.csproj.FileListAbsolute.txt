@@ -1,0 +1,40 @@
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.dll.config
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.pdb
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.dll.config
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.pdb
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.dll.config
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.dll
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.pdb
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.dll
+C:\Users\turah\Desktop\SDT\Turah\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.pdb
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.dll.config
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.dll
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.pdb
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDomainModel.dll
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDataAccess\bin\Release\SDTDomainModel.pdb
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.dll
+C:\Users\turah\Desktop\Turah\SDT 1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.dll.config
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\bin\Release\SDTDataAccess.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\bin\Release\SDTDomainModel.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\bin\Release\SDTDomainModel.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDT\SDTDataAccess\obj\Release\SDTDataAccess.pdb

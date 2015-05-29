@@ -1,0 +1,55 @@
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\SDT.Utils.dll.config
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\SDT.Utils.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\SDT.Utils.pdb
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\en\SDT.Utils.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NLog.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NPOI.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\Ionic.Zip.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NLog.xml
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NPOI.xml
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.Enums.Resources.EnumsResource.resources
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.Enums.Resources.EnumsResource.en.resources
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDTFramework.Utils.csproj.GenerateResource.Cache
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\en\SDT.Utils.resources.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.dll
+C:\Users\turah\Desktop\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\SDT.Utils.dll.config
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\SDT.Utils.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\SDT.Utils.pdb
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\en\SDT.Utils.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NLog.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NPOI.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\Ionic.Zip.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NLog.xml
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NPOI.xml
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.Enums.Resources.EnumsResource.resources
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.Enums.Resources.EnumsResource.en.resources
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDTFramework.Utils.csproj.GenerateResource.Cache
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\en\SDT.Utils.resources.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.dll
+C:\Users\turah\Desktop\CCAA\SDT 1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\SDT.Utils.dll.config
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\SDT.Utils.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\SDT.Utils.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\en\SDT.Utils.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NLog.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NPOI.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\Ionic.Zip.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NLog.xml
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\bin\Debug\NPOI.xml
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.Enums.Resources.EnumsResource.resources
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.Enums.Resources.EnumsResource.en.resources
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDTFramework.Utils.csproj.GenerateResource.Cache
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\en\SDT.Utils.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\SDTFramework\SDTFramework.Utils\obj\Debug\SDT.Utils.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\bin\Debug\SDT.Utils.dll.config
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\bin\Debug\SDT.Utils.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\bin\Debug\SDT.Utils.pdb
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\bin\Debug\en\SDT.Utils.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\obj\Debug\SDT.Utils.Enums.Resources.EnumsResource.resources
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\obj\Debug\SDT.Utils.Enums.Resources.EnumsResource.en.resources
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\obj\Debug\SDTFramework.Utils.csproj.GenerateResource.Cache
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\obj\Debug\en\SDT.Utils.resources.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\obj\Debug\SDT.Utils.dll
+C:\Users\Turah\Projetos\ControleCertificados\1a versao\Framework\SDTFramework.Utils\obj\Debug\SDT.Utils.pdb
